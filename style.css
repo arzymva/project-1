@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/sand-beach-as-background_102618-461.jpg?w=2000');
+   
+ }
+ a{
+     color: white;
+     text-decoration: none;
+     font-size: 30px;
+ }
+ .s{
+     font-size: 50px;
+     color: white
+ }
+ .alt-tst{
+    display: flex;
+    justify-content: space-between;
+ }
+ .dbl-test a{
+     padding: 15px;
+  }
+  p{
+     display: flex;
+     justify-content: center;
+     margin-top: 200px;
+     
+ }
